@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(https://images.unsplash.com/photo-1517258831948-25528eee3450?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjExMDk0fQ&auto=format&fit=crop&w=967&q=80);
+}
+header{
+    color: white;
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    justify-content: space-between;
+    padding: 0 0 0 5%;
+}
+nav ul{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    /* margin-top: 5%; */
+}
+li{
+    display: flex;
+    padding-right: 20%;
+}
